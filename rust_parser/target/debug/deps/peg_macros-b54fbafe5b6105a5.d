@@ -1,0 +1,10 @@
+/Users/thomascanro/Desktop/Pragmatic Programmer/rust_parser/target/debug/deps/libpeg_macros-b54fbafe5b6105a5.dylib: /Users/thomascanro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.8.4/lib.rs /Users/thomascanro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.8.4/analysis.rs /Users/thomascanro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.8.4/ast.rs /Users/thomascanro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.8.4/grammar.rs /Users/thomascanro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.8.4/tokens.rs /Users/thomascanro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.8.4/translate.rs
+
+/Users/thomascanro/Desktop/Pragmatic Programmer/rust_parser/target/debug/deps/peg_macros-b54fbafe5b6105a5.d: /Users/thomascanro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.8.4/lib.rs /Users/thomascanro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.8.4/analysis.rs /Users/thomascanro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.8.4/ast.rs /Users/thomascanro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.8.4/grammar.rs /Users/thomascanro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.8.4/tokens.rs /Users/thomascanro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.8.4/translate.rs
+
+/Users/thomascanro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.8.4/lib.rs:
+/Users/thomascanro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.8.4/analysis.rs:
+/Users/thomascanro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.8.4/ast.rs:
+/Users/thomascanro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.8.4/grammar.rs:
+/Users/thomascanro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.8.4/tokens.rs:
+/Users/thomascanro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/peg-macros-0.8.4/translate.rs:
