@@ -1,0 +1,16 @@
+This is a testing file to familiarize myself with the editor.
+
+List of challenges:
+
+1. Move and select by char, word, line and paragraph -- DONE (for paragraph use '{}')
+2. For code, move by syntactic units (delimeters, functions, modules) -- DONE ( [f for outer function, ]f for inner function. [c and ]c for classes )
+3. Reindent code following changes -- DONE (Select lines and use "=")
+4. Comment and uncomment code blocks with single command -- DONE (gcc in normal for line, in visual use gc)
+5. Undo and redo changes -- DONE
+6. Split editor window into multiple panels and navigate them -- DONE (for splitting use Ctrl+w + v(vertical) or + s(horizontal) ) ( to close others use Ctrl + w + o )
+7. Navigate to line number -- DONE
+8. Sort selected lines
+9. Search for strings and regex -- DONE (in vim default is regex)
+10. Create many cursors for matching patterns
+11. Compilation errors -- DONE, use LSP downloaded from Mason
+12. Run current project tests -- Not sure what it means, should be able to do it with terminal
